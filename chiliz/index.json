@@ -709,7 +709,7 @@
             "name": "Cat Chiliz",
             "symbol": "CATCHI",
             "decimals": 18,
-            "logoURI": "https://github.com/CATCHIZ/assets/blob/d90ecd6fc6a35743086f00fcc19e5aa7ebb9001d/chiliz/tokens/0x0b7Ff9352eb3baB924A8bf504419C294DaCd9EdC/cat_chiliz.jpg"
+            "logoURI": "https://raw.githubusercontent.com/imonai/nfts/main/chiliz/tokens/0x0b7Ff9352eb3baB924A8bf504419C294DaCd9EdC/cat_chiliz.jpg"
         }
     ]
 }
